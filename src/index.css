@@ -1,0 +1,38 @@
+:root{
+      
+    --color-white: rgb(250 250 250);
+    --color-white1: rgb(255 255 255);
+
+    --color-gris:hsla(33, 68%, 55%, 0.7);        /*para el gris 1 */
+    --color-orange: hsl(37 92% 58%);    /*para el azul 2 */
+    --color-green: rgba(20, 133, 121, 0.5);     /*para el verde 3*/
+    --color-violet:hsla(242 46% 51% / 0.4);     /*para el rosa 4*/
+    
+    --color-shadow: hsla(10 5% 5% / 0.4);
+    --color-sombra1: hsla(0 0% 0% / 0.5);
+    --color-sombra2: hsla(0 0% 100% / 0.5);
+    --color-sombra3: hsl(0 0% 20%);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "Caveat", cursive, sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+h1, h2, p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button{
+    font-family: inherit;
+    outline: none;
+    cursor: pointer;
+}

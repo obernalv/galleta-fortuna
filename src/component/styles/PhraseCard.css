@@ -1,0 +1,15 @@
+.card__phrase{
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 1.2em;
+    color: var(--color-white);
+}
+
+.card__phrase::before{
+    content: "' ";
+}
+
+.card__phrase::after{
+    content: " '";
+}
+

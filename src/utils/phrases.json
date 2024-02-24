@@ -1,0 +1,100 @@
+[
+    {
+      "phrase": "El logro más impresionante de la industria del software es su continua anulación de los constantes y asombrosos logros de la industria del hardware.",
+      "author": "Henry Petroski"
+    },
+    {
+      "phrase": "La verdadera innovación a menudo viene de las pequeñas startups que son capaces de crear mercados pero carecen de peso para poseerlos.",
+      "author": "Timm Martin"
+      },
+    {
+      "phrase": "Controlar la complejidad es la esencia de la programación.",
+      "author": "Brian Kernigan"
+    },
+    {
+      "phrase": "Hay dos maneras de diseñar software: una es hacerlo tan simple que sea obvia su falta de deficiencias, y la otra es hacerlo tan complejo que no haya deficiencias obvias.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "phrase": "La función de un buen software es hacer que lo complejo aparente ser simple..",
+      "author": "Grady Booch"
+    },
+    {
+      "phrase": "La mayoría de ustedes están familiarizados con las virtudes del programador. Son tres, por supusto: pereza, impaciencia y orgullo desmedido.",
+      "author": "Larry Wall"
+    },
+    {
+      "phrase": "El problema que hay con los programadores es que nunca puedes contar lo que un programador está haciendo hasta que es demasiado tarde.",
+      "author": "Seymour Cray"
+    },
+    {
+      "phrase": "Mañana puede ser muy tarde para disfrutar lo que tienes hoy.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Cuando busques lo que mas deseas, recuerda hacer tu mejor esfuerzo.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo.",
+      "author": "Ley de Mosher de la Ingeniería del Software"
+    },
+     {
+      "phrase": "Primero aprende informática y toda la teoría. Después desarrolla un estilo de programación. Entonces, olvídalo todo y hackea.",
+      "author": "George Carrette"
+    },
+    {
+      "phrase": "Una reputación de mil años puede depender de la conducta de una hora",
+      "author": "Proverbio Japones"
+      },
+    {
+      "phrase": "Siente la felicidad que espera por ti y no olvides atraparla para mantenerla contigo.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "No todo el mundo puede recibir las mismas cosas. Se practico.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Primero resuelve el problema. Entonces, escribe el código.",
+      "author": "John Johnson"
+    },
+    {
+      "phrase": "El optimismo es un riesgo laboral de la programación; el feedback es el tratamiento.",
+      "author": "Kent Beck"
+    },
+    {
+      "phrase": "Iterar es humano, 'recursivar' es divino.",
+      "author": "L. Peter Deutsch"
+    },
+    {
+      "phrase": "Iterar es humano, 'recursivar' es divino.",
+      "author": "L. Peter Deutsch"
+    }
+
+    ,
+    {
+      "phrase": "Lo mejor de los booleanos es que si te equivocas estás a un sólo bit de la solución correcta.",
+      "author": "Anónimo"
+    },
+    {
+      "phrase": "Hay sólo dos clases de lenguajes de programación: aquellos de los que la gente está siempre quejándose y aquellos que nadie usa.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "phrase": "Pienso que Microsoft eligió el nombre .Net para que no pudiera ser mostrado en un listado de directorio de Unix.",
+      "author": "Oktal"
+    },
+    {
+      "phrase": "No hay lenguaje de programación, no importa su estructura, que impida que los programadores hagan malos programas.",
+      "author": "Larry Flon"
+    },
+    {
+      "phrase": "El diseño de lenguajes de programación es como pasear en el parque. Bueno, en parque jurásico.",
+      "author": " Larry Wall"
+    }
+]

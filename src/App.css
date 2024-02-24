@@ -1,0 +1,33 @@
+.app{
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+
+    .app__title{
+        font-weight: 600;
+        font-size: 3em;
+        text-shadow: 2px 2px 4px var(--color-sombra1), -2px -2px 4px var(--color-sombra2); color: var(--color-sombra3);  
+        text-align: center;
+        color: var(--color-white);
+    }
+   
+    .app__card{
+        width: 100%;
+        max-width: 500px;
+       /* background-color: var(--color-violet);*/
+        padding: 1.5em 2em;
+        border-radius: 1em;
+        display: grid;
+        gap: 1em;
+        box-shadow: 0.2em 0.2em 0.3em var(--color-violet);
+    }
+
+}
+
+
+/* Cambiar diseño de el scroll*/
